@@ -79,4 +79,6 @@ public class User {
                 ", email='" + email + '\'' +
                 '}';
     }
+    
+    //Github云端添加注释
 }
